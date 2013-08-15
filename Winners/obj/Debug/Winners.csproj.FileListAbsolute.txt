@@ -30,3 +30,4 @@ c:\users\francis\documents\visual studio 2012\Projects\Winners\Winners\bin\Micro
 c:\users\francis\documents\visual studio 2012\Projects\Winners\Winners\bin\Microsoft.AspNet.FriendlyUrls.xml
 c:\users\francis\documents\visual studio 2012\Projects\Winners\Winners\obj\Debug\Winners.dll
 c:\users\francis\documents\visual studio 2012\Projects\Winners\Winners\obj\Debug\Winners.pdb
+C:\Users\francis\Documents\Visual Studio 2012\Projects\Winners\Winners\obj\Debug\Winners.csprojResolveAssemblyReference.cache
